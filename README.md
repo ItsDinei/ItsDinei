@@ -7,7 +7,6 @@ Tenho 28 anos e sou da cidade de Guarujá na Baixada Santista :house:.
 - :school: Bacharel em Engenharia da Computação pela Esamc Santos.
 - 🌱 Em transição de carreira para a área de desenvolvimento backend. 
 - 📫 Email: aragao199575@gmail.com
-- Curiosidades: 
 
 ### Ferramentas e Tecnologias
 
