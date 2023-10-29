@@ -19,8 +19,7 @@ Tenho 28 anos e sou da cidade de Guarujá na Baixada Santista :house:.
 
 <div>
 <a href="https://github.com/ItsDinei">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDinei&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsDinei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDinei&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsDinei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
