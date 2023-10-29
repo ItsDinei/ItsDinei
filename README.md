@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá, Me chamo Claudinei 👋
+### Bem-víndo ao meu Perfil
 
-<!--
-**ItsDinei/ItsDinei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 28 anos e sou da cidade de Guarujá na Baixada Santista :house:.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente Trabalhando como Técnico de Manutenção de Computadores.
+- :school: Bacharel em Engenharia da Computação pela Esamc Santos.
+- 🌱 Em transição de carreira para a área de desenvolvimento backend. 
+- 📫 Email: aragao199575@gmail.com
+- Curiosidades: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+## Contatos
+
+<a href="https://www.linkedin.com/in/claudinei-aragão-553011284" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div> <a href = "mailto:aragao199575@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div>
+<a href="https://github.com/ItsDinei">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsDinei&theme=dark&show_icons=true)
+
+
+
